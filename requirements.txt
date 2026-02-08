@@ -1,5 +1,7 @@
 face_recognition==1.2.3
-opencv-python==4.10.0
-numpy==1.26.4
+opencv-python>=4.10.0
+numpy>=1.26.4
 imutils==0.5.4
-dlib==19.24.0
+dlib>=19.24.0
+#dlib-19.24.99-cp312-cp312-win_amd64.whl
+
